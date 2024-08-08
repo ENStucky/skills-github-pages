@@ -1,5 +1,5 @@
 ---
-title: "OMG SO COOL"
+title: "OMG-SO-COOL"
 date: 1999-07-24
 ---
 
